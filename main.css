@@ -1,0 +1,5 @@
+html { height: 100%; }
+body { height: 100%; margin: 0; background: #111; text-align: center; }
+#remoteVideo { height: 70%; margin-top: 5%; background: #000; }
+#localVideo { width: 20%; position: absolute; right: 1.1em; bottom: 1em; border: 1px solid #333; background: #000; }
+#callButton { position: absolute; display: none; left: 50%; font-size: 2em; bottom: 5%; border-radius: 1em; }
